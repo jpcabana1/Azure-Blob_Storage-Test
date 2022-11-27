@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sEFa4bVgNzBxp1vwUq3ei6IvTA+2LUaBkePY/75gLXU=",
+  "Source": "BlobStorageTest",
+  "BasePath": "_content/BlobStorageTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
